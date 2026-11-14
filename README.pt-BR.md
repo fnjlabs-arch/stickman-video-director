@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [**🇧🇷 PT-BR**](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 SadSha Stickman Video
 
 **Transforme qualquer roteiro em vídeos animados de bonecos de palito virais, em vários estilos, para canais do YouTube sem aparecer na câmera.**
 
@@ -581,7 +581,7 @@ Gere o kit de thumbnail e publicação para este vídeo:
 
 ### Q1. É mesmo 100% gratuito? Existem taxas ocultas?
 
-Sim. O Stickman Video Director é 100% gratuito e de código aberto sob a licença MIT. Você pode usá-lo livremente em projetos pessoais e comerciais. Ao contrário de plataformas SaaS proprietárias que cobram US$ 30–60/mês, este projeto não tem assinatura. Você só paga pelo uso das suas APIs de terceiros (como Google Gemini, Claude ou ElevenLabs), conforme os modelos que escolher conectar.
+Sim. O SadSha Stickman Video é 100% gratuito e de código aberto sob a licença MIT. Você pode usá-lo livremente em projetos pessoais e comerciais. Ao contrário de plataformas SaaS proprietárias que cobram US$ 30–60/mês, este projeto não tem assinatura. Você só paga pelo uso das suas APIs de terceiros (como Google Gemini, Claude ou ElevenLabs), conforme os modelos que escolher conectar.
 
 <!-- readme:platforms -->
 
@@ -603,7 +603,7 @@ Sim. Você pode colar uma ideia inicial, um pensamento espontâneo, um link de n
 
 ### Q5. Como a IA mantém a retenção do público sem deixar o vídeo chato?
 
-Ferramentas tradicionais de IA apenas ilustram o texto literalmente. O Stickman Video Director aplica de verdade a **psicologia da narrativa visual**:
+Ferramentas tradicionais de IA apenas ilustram o texto literalmente. O SadSha Stickman Video aplica de verdade a **psicologia da narrativa visual**:
 
 - **O gancho de 3 segundos**: transforma a frase inicial em uma contradição visual imediata ou uma lacuna de curiosidade para impedir que o público continue rolando a tela.
 - **Metáforas visuais**: transforma conceitos abstratos em piadas visuais, como ansiedade representada por uma roda de hamster encolhendo ou esgotamento por uma bateria em 1%.
@@ -611,7 +611,7 @@ Ferramentas tradicionais de IA apenas ilustram o texto literalmente. O Stickman 
 
 ### Q6. Posso monetizar esses vídeos no YouTube e no TikTok?
 
-Sim, com certeza. Uma grande preocupação de quem cria canais sem aparecer é a política de desmonetização do YouTube para “Reused Content” ou conteúdo de IA de baixo esforço. Como o Stickman Video Director escreve arcos narrativos personalizados, ritmo exclusivo e encenação visual original, seu resultado é totalmente original. Centenas de canais monetizam com sucesso vídeos narrativos de bonecos-palito pelo YouTube Partner Program (YPP).
+Sim, com certeza. Uma grande preocupação de quem cria canais sem aparecer é a política de desmonetização do YouTube para “Reused Content” ou conteúdo de IA de baixo esforço. Como o SadSha Stickman Video escreve arcos narrativos personalizados, ritmo exclusivo e encenação visual original, seu resultado é totalmente original. Centenas de canais monetizam com sucesso vídeos narrativos de bonecos-palito pelo YouTube Partner Program (YPP).
 
 ### Q7. Preciso saber programar ou ter uma GPU cara?
 

@@ -25,7 +25,7 @@ assert all(phrase in b3_boundaries for phrase in (
     "Preserve its television finish", "Bodi is the sample voice credit",
     "not a required service or voice", "the user's selected available voice route takes priority",
 )), "B3 television finish and configurable voice boundary must remain explicit"
-assert "# 🎬 Stickman Video Director" in source
+assert "# 🎬 SadSha Stickman Video" in source
 english_hero = source.split("</div>", 1)[0]
 assert "**Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels.**" in english_hero
 english_intro = (
@@ -117,7 +117,7 @@ for name in selected:
     hero_blocks = [block.strip() for block in top.split("\n\n") if block.strip()]
     is_english = name in ("README.md", "README.en.md")
     assert len(hero_blocks) == 8, (name, "three localized introduction paragraphs")
-    assert hero_blocks[2] == "# 🎬 Stickman Video Director", (name, "shared product title")
+    assert hero_blocks[2] == "# 🎬 SadSha Stickman Video", (name, "shared product title")
     subtitle = hero_blocks[3]
     assert subtitle.startswith("**") and subtitle.endswith("**"), (name, "bold subtitle")
     assert "🎬" not in subtitle and "YouTube" in subtitle, (name, "localized script-to-video subtitle for faceless YouTube channels")

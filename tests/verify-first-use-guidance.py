@@ -47,7 +47,7 @@ assert name == "directing-stickman-videos" and description
 # The UI starter invokes that same Skill; it is not a new mode/package.
 interface = dict(re.findall(r"^  (\w+): (.+)$", (skill / "agents/openai.yaml").read_text(), re.M))
 assert f"${name}" in json.loads(interface["default_prompt"])
-assert json.loads(interface["display_name"]) == "Stickman Video Director"
+assert json.loads(interface["display_name"]) == "SadSha Stickman Video"
 entries = [p for p in root.rglob("SKILL.md")
            if not {"node_modules", ".git"}.intersection(p.relative_to(root).parts)]
 assert entries == [skill / "SKILL.md"], "Do not add a second discoverable Skill"

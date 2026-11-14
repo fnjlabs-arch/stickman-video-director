@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [**🇫🇷 FR**](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 SadSha Stickman Video
 
 **Transformez n’importe quel script en vidéos d’animation stickman virales, dans des styles variés, pour les chaînes YouTube sans visage.**
 
@@ -577,7 +577,7 @@ Génère le kit de miniature et de publication pour cette vidéo :
 
 ### Q1. Est-ce vraiment 100 % gratuit ? Y a-t-il des frais cachés ?
 
-Oui. Stickman Video Director est 100 % gratuit et open source sous licence MIT. Vous pouvez l’utiliser librement pour vos projets personnels et commerciaux. Contrairement aux plateformes SaaS propriétaires facturées 30 à 60 $/mois, ce projet ne comporte aucun abonnement. Vous payez uniquement votre consommation d’API tierces (par exemple Google Gemini, Claude ou ElevenLabs), selon les modèles que vous choisissez de connecter.
+Oui. SadSha Stickman Video est 100 % gratuit et open source sous licence MIT. Vous pouvez l’utiliser librement pour vos projets personnels et commerciaux. Contrairement aux plateformes SaaS propriétaires facturées 30 à 60 $/mois, ce projet ne comporte aucun abonnement. Vous payez uniquement votre consommation d’API tierces (par exemple Google Gemini, Claude ou ElevenLabs), selon les modèles que vous choisissez de connecter.
 
 <!-- readme:platforms -->
 
@@ -599,7 +599,7 @@ Oui. Collez une idée brute, une réflexion spontanée, un lien d’actualité o
 
 ### Q5. Comment l’IA rend-elle la vidéo captivante et évite-t-elle l’ennui ?
 
-Les outils IA traditionnels se contentent d’illustrer littéralement le texte. Stickman Video Director applique une véritable **psychologie de la narration visuelle** :
+Les outils IA traditionnels se contentent d’illustrer littéralement le texte. SadSha Stickman Video applique une véritable **psychologie de la narration visuelle** :
 
 - **L’accroche des 3 secondes** : transforme la première phrase en contradiction visuelle immédiate ou en question intrigante pour empêcher le spectateur de faire défiler la page.
 - **Les métaphores visuelles** : convertissent les notions abstraites en gags visuels, comme l’anxiété représentée par une roue de hamster qui rétrécit ou l’épuisement par une batterie à 1 %.
@@ -607,7 +607,7 @@ Les outils IA traditionnels se contentent d’illustrer littéralement le texte.
 
 ### Q6. Puis-je monétiser ces vidéos sur YouTube et TikTok ?
 
-Oui, tout à fait. Les créateurs de chaînes sans visage s’inquiètent souvent des règles de démonétisation de YouTube concernant le « Reused Content » ou les contenus IA à faible effort. Comme Stickman Video Director écrit des arcs narratifs sur mesure, un rythme unique et des mises en scène originales, votre résultat est entièrement original. Des centaines de chaînes monétisent avec succès des récits stickman dans le cadre du YouTube Partner Program (YPP).
+Oui, tout à fait. Les créateurs de chaînes sans visage s’inquiètent souvent des règles de démonétisation de YouTube concernant le « Reused Content » ou les contenus IA à faible effort. Comme SadSha Stickman Video écrit des arcs narratifs sur mesure, un rythme unique et des mises en scène originales, votre résultat est entièrement original. Des centaines de chaînes monétisent avec succès des récits stickman dans le cadre du YouTube Partner Program (YPP).
 
 ### Q7. Faut-il savoir programmer ou posséder un GPU coûteux ?
 

@@ -8,7 +8,7 @@ import struct
 root = Path(__file__).resolve().parents[1]
 cn = (root / "README.zh-CN.md").read_text()
 assert (root / "README.md").read_bytes() == (root / "README.en.md").read_bytes()
-assert "# 🎬 Stickman Video Director" in cn
+assert "# 🎬 SadSha Stickman Video" in cn
 assert "[**🇨🇳 简中**](README.zh-CN.md)" in cn
 assert "[🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md)" in cn, "French follows Korean in the shared navigation"
 assert (root / "README.fr.md").is_file(), "French navigation must open a complete README"
@@ -21,9 +21,9 @@ assert "为项目点个 Star，及时关注下一批画风和新功能解锁。"
 assert "**每一颗 Star，都为下一次更新添一把火！**" in cn
 assert "100% 免费、开源的工作室" in cn
 assert "我是烤妹儿" not in cn, "Keep the follow CTA focused on reader value, not self-introduction"
-readable_cn = re.sub(r'<[^>]+>|\]\([^)]+\)|https?://[^\s<>)"]+', "", cn.replace("# 🎬 Stickman Video Director\n", "", 1))
+readable_cn = re.sub(r'<[^>]+>|\]\([^)]+\)|https?://[^\s<>)"]+', "", cn.replace("# 🎬 SadSha Stickman Video\n", "", 1))
 outside_faq = cn.split('<a id="faq"></a>', 1)[0] + cn.split('<!-- readme:contribute -->', 1)[1]
-readable_outside_faq = re.sub(r'<[^>]+>|\]\([^)]+\)|https?://[^\s<>)"]+', "", outside_faq.replace("# 🎬 Stickman Video Director\n", "", 1))
+readable_outside_faq = re.sub(r'<[^>]+>|\]\([^)]+\)|https?://[^\s<>)"]+', "", outside_faq.replace("# 🎬 SadSha Stickman Video\n", "", 1))
 assert not re.search(r"\b(?:Director|Autopilot)\b", readable_outside_faq, re.I), "Use Chinese mode names outside the user-supplied bilingual FAQ; preserve technical paths and anchors"
 assert "自动成片" not in readable_cn, "Use 全自动模式 consistently for mode B"
 assert not re.search(r"(?<!AI )助手|(?<=[\u4e00-\u9fff])AI 助手", readable_cn), "Use AI 助手 consistently, with spaces between English and Chinese"

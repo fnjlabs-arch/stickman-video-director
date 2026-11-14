@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [**🇰🇷 한국어**](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 SadSha Stickman Video
 
 **어떤 대본이든 얼굴 공개 없는 YouTube 채널을 위한 다양한 그림체의 바이럴 스틱맨 애니메이션 영상으로.**
 
@@ -575,7 +575,7 @@ B1, B2, B3… 순으로 추가하며, 각 스타일의 일러스트 스토리보
 
 ### Q1. 정말 100% 무료인가요? 숨겨진 비용이 있나요?
 
-네. Stickman Video Director는 MIT 라이선스의 100% 무료 오픈소스 프로젝트입니다. 개인 작업과 상업 프로젝트에 자유롭게 사용할 수 있습니다. 월 $30–$60를 청구하는 독점 SaaS 플랫폼과 달리 이 프로젝트에는 구독료가 없습니다. 연결할 모델에 따라 Google Gemini, Claude, ElevenLabs 같은 외부 API 사용료만 직접 지불하면 됩니다.
+네. SadSha Stickman Video는 MIT 라이선스의 100% 무료 오픈소스 프로젝트입니다. 개인 작업과 상업 프로젝트에 자유롭게 사용할 수 있습니다. 월 $30–$60를 청구하는 독점 SaaS 플랫폼과 달리 이 프로젝트에는 구독료가 없습니다. 연결할 모델에 따라 Google Gemini, Claude, ElevenLabs 같은 외부 API 사용료만 직접 지불하면 됩니다.
 
 <!-- readme:platforms -->
 
@@ -597,7 +597,7 @@ B1, B2, B3… 순으로 추가하며, 각 스타일의 일러스트 스토리보
 
 ### Q5. AI는 어떻게 시청 지속률을 높이고 지루함을 줄이나요?
 
-기존 AI 도구는 글을 그대로 그림으로 옮기는 데 그칩니다. Stickman Video Director는 실제 **시각적 스토리텔링 심리학**을 적용합니다:
+기존 AI 도구는 글을 그대로 그림으로 옮기는 데 그칩니다. SadSha Stickman Video는 실제 **시각적 스토리텔링 심리학**을 적용합니다:
 
 - **3초 훅**: 첫 문장을 즉각적인 시각적 모순이나 호기심을 유발하는 장치로 바꿔 시청자가 스크롤을 멈추게 합니다.
 - **시각적 은유**: 추상적이고 지루한 개념을 코믹한 시각적 장면으로 바꿉니다. 예를 들어 불안은 줄어드는 햄스터 쳇바퀴로, 번아웃은 1% 배터리로 표현합니다.
@@ -605,7 +605,7 @@ B1, B2, B3… 순으로 추가하며, 각 스타일의 일러스트 스토리보
 
 ### Q6. 이 영상으로 YouTube와 TikTok에서 수익을 낼 수 있나요?
 
-네, 가능합니다. 얼굴을 드러내지 않는 크리에이터가 걱정하는 부분은 YouTube의 “Reused Content”나 저노력 AI 콘텐츠에 대한 수익 창출 중단 정책입니다. Stickman Video Director는 맞춤형 이야기 구조, 고유한 서사 리듬, 독창적인 시각 연출을 작성하므로 결과물은 완전히 독창적입니다. 수백 개의 채널이 YouTube Partner Program(YPP)을 통해 스틱맨 서사 영상으로 수익을 내고 있습니다.
+네, 가능합니다. 얼굴을 드러내지 않는 크리에이터가 걱정하는 부분은 YouTube의 “Reused Content”나 저노력 AI 콘텐츠에 대한 수익 창출 중단 정책입니다. SadSha Stickman Video는 맞춤형 이야기 구조, 고유한 서사 리듬, 독창적인 시각 연출을 작성하므로 결과물은 완전히 독창적입니다. 수백 개의 채널이 YouTube Partner Program(YPP)을 통해 스틱맨 서사 영상으로 수익을 내고 있습니다.
 
 ### Q7. 프로그래밍 지식이나 비싼 GPU가 필요한가요?
 

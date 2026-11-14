@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [**🇮🇩 ID**](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 SadSha Stickman Video
 
 **Ubah naskah apa pun menjadi video animasi stickman viral dalam berbagai gaya untuk channel YouTube tanpa tampil di kamera.**
 
@@ -582,7 +582,7 @@ Buat Kit Thumbnail & Publikasi untuk video ini:
 
 ### Q1. Apakah ini benar-benar 100% gratis? Ada biaya tersembunyi?
 
-Ya. Stickman Video Director 100% gratis dan open source dengan lisensi MIT. Anda bebas menggunakannya untuk proyek pribadi maupun komersial. Berbeda dari platform SaaS tertutup yang mengenakan US$30–60/bulan, proyek ini tidak memiliki biaya langganan. Anda hanya membayar penggunaan API pihak ketiga sendiri, seperti Google Gemini, Claude, atau ElevenLabs, sesuai model yang Anda hubungkan.
+Ya. SadSha Stickman Video 100% gratis dan open source dengan lisensi MIT. Anda bebas menggunakannya untuk proyek pribadi maupun komersial. Berbeda dari platform SaaS tertutup yang mengenakan US$30–60/bulan, proyek ini tidak memiliki biaya langganan. Anda hanya membayar penggunaan API pihak ketiga sendiri, seperti Google Gemini, Claude, atau ElevenLabs, sesuai model yang Anda hubungkan.
 
 <!-- readme:platforms -->
 
@@ -604,7 +604,7 @@ Ya. Anda bisa menempelkan ide kasar, pemikiran spontan, tautan berita, atau satu
 
 ### Q5. Bagaimana AI menjaga retensi penonton dan membuat video tidak membosankan?
 
-Alat AI tradisional hanya mengubah teks menjadi ilustrasi harfiah. Stickman Video Director menerapkan **psikologi storytelling visual** yang nyata:
+Alat AI tradisional hanya mengubah teks menjadi ilustrasi harfiah. SadSha Stickman Video menerapkan **psikologi storytelling visual** yang nyata:
 
 - **Hook 3 Detik**: mengubah kalimat pembuka menjadi kontradiksi visual langsung atau celah rasa ingin tahu agar penonton tidak melewatkan video.
 - **Metafora Visual**: mengubah konsep abstrak yang membosankan menjadi lelucon visual, misalnya kecemasan sebagai roda hamster yang menyusut atau burnout sebagai indikator baterai 1%.
@@ -612,7 +612,7 @@ Alat AI tradisional hanya mengubah teks menjadi ilustrasi harfiah. Stickman Vide
 
 ### Q6. Bisakah video ini dimonetisasi di YouTube dan TikTok?
 
-Ya, tentu saja. Salah satu kekhawatiran utama kreator tanpa wajah adalah kebijakan demonetisasi YouTube untuk “Reused Content” atau konten AI minim usaha. Karena Stickman Video Director menulis alur cerita khusus, ritme narasi unik, dan penataan visual orisinal, hasil Anda sepenuhnya orisinal. Ratusan channel berhasil memonetisasi video naratif stickman melalui YouTube Partner Program (YPP).
+Ya, tentu saja. Salah satu kekhawatiran utama kreator tanpa wajah adalah kebijakan demonetisasi YouTube untuk “Reused Content” atau konten AI minim usaha. Karena SadSha Stickman Video menulis alur cerita khusus, ritme narasi unik, dan penataan visual orisinal, hasil Anda sepenuhnya orisinal. Ratusan channel berhasil memonetisasi video naratif stickman melalui YouTube Partner Program (YPP).
 
 ### Q7. Apakah saya perlu bisa coding atau memiliki GPU mahal?
 

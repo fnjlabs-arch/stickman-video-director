@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [**🇹🇷 TR**](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 SadSha Stickman Video
 
 **Her senaryoyu, yüzünüzü göstermeden içerik ürettiğiniz YouTube kanalları için farklı tarzlarda viral çöp adam animasyon videolarına dönüştürün.**
 
@@ -576,7 +576,7 @@ Bu video için Küçük Resim ve Yayınlama Kitini oluştur:
 
 ### Q1. Gerçekten %100 ücretsiz mi? Gizli ücretler var mı?
 
-Evet. Stickman Video Director, MIT lisansıyla %100 ücretsiz ve açık kaynaklıdır. Kişisel ve ticari projelerinizde özgürce kullanabilirsiniz. Aylık 30–60 dolar isteyen kapalı SaaS platformlarının aksine bu projede abonelik ücreti yoktur. Yalnızca bağlamayı seçtiğiniz modellere göre Google Gemini, Claude veya ElevenLabs gibi üçüncü taraf API kullanımınızı ödersiniz.
+Evet. SadSha Stickman Video, MIT lisansıyla %100 ücretsiz ve açık kaynaklıdır. Kişisel ve ticari projelerinizde özgürce kullanabilirsiniz. Aylık 30–60 dolar isteyen kapalı SaaS platformlarının aksine bu projede abonelik ücreti yoktur. Yalnızca bağlamayı seçtiğiniz modellere göre Google Gemini, Claude veya ElevenLabs gibi üçüncü taraf API kullanımınızı ödersiniz.
 
 <!-- readme:platforms -->
 
@@ -598,7 +598,7 @@ Evet. Ham bir fikri, aklınıza gelen bir düşünceyi, haber bağlantısını v
 
 ### Q5. Yapay zekâ videonun sıkıcı olmamasını ve izleyiciyi tutmasını nasıl sağlıyor?
 
-Geleneksel yapay zekâ araçları metni yalnızca birebir resimlere dönüştürür. Stickman Video Director gerçek **görsel hikâye anlatımı psikolojisi** uygular:
+Geleneksel yapay zekâ araçları metni yalnızca birebir resimlere dönüştürür. SadSha Stickman Video gerçek **görsel hikâye anlatımı psikolojisi** uygular:
 
 - **3 Saniyelik Açılış**: İlk cümleyi anında görülen bir görsel çelişkiye veya merak boşluğuna dönüştürerek izleyicinin kaydırıp gitmesini engeller.
 - **Görsel Metaforlar**: Soyut ve sıkıcı kavramları komik görsel şakalara çevirir; örneğin kaygıyı küçülen bir hamster çarkı, tükenmişliği %1 pil göstergesi olarak betimler.
@@ -606,7 +606,7 @@ Geleneksel yapay zekâ araçları metni yalnızca birebir resimlere dönüştür
 
 ### Q6. Bu videolardan YouTube ve TikTok’ta para kazanabilir miyim?
 
-Evet, kesinlikle. Yüzünü göstermeyen içerik üreticilerinin önemli bir kaygısı, YouTube’un “Reused Content” veya düşük emekli yapay zekâ içeriklerine yönelik para kazanmayı kapatma politikasıdır. Stickman Video Director özel hikâye örgüleri, benzersiz anlatım temposu ve özgün görsel sahneleme yazdığı için çıktınız tamamen özgündür. Yüzlerce kanal, YouTube Partner Program (YPP) kapsamında çöp adam anlatı videolarından başarıyla gelir elde ediyor.
+Evet, kesinlikle. Yüzünü göstermeyen içerik üreticilerinin önemli bir kaygısı, YouTube’un “Reused Content” veya düşük emekli yapay zekâ içeriklerine yönelik para kazanmayı kapatma politikasıdır. SadSha Stickman Video özel hikâye örgüleri, benzersiz anlatım temposu ve özgün görsel sahneleme yazdığı için çıktınız tamamen özgündür. Yüzlerce kanal, YouTube Partner Program (YPP) kapsamında çöp adam anlatı videolarından başarıyla gelir elde ediyor.
 
 ### Q7. Programlama bilgisine veya pahalı bir GPU’ya ihtiyacım var mı?
 

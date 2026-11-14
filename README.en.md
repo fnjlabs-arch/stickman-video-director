@@ -2,7 +2,7 @@
 
 [**🇺🇸 EN**](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 SadSha Stickman Video
 
 **Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels.**
 
@@ -573,7 +573,7 @@ Generate the Thumbnail & Publishing Kit for this video:
 
 ### Q1. Is this really 100% free? Are there any hidden fees?
 
-Yes. Stickman Video Director is 100% free and open-source under the MIT license. You can use it freely for both personal and commercial projects. Unlike proprietary SaaS platforms that charge $30–$60/month, this project has zero subscription fees. You only pay for your own third-party API usage (e.g., Google Gemini, Claude, or ElevenLabs) based on the models you choose to connect.
+Yes. SadSha Stickman Video is 100% free and open-source under the MIT license. You can use it freely for both personal and commercial projects. Unlike proprietary SaaS platforms that charge $30–$60/month, this project has zero subscription fees. You only pay for your own third-party API usage (e.g., Google Gemini, Claude, or ElevenLabs) based on the models you choose to connect.
 
 <!-- readme:platforms -->
 
@@ -595,7 +595,7 @@ Yes. You can paste a rough idea, a shower thought, a news link, or an entire blo
 
 ### Q5. How does the AI ensure the video has high viewer retention and isn't boring?
 
-Traditional AI tools just spit out literal illustrations of text. Stickman Video Director applies real **visual storytelling psychology**:
+Traditional AI tools just spit out literal illustrations of text. SadSha Stickman Video applies real **visual storytelling psychology**:
 
 - **The 3-Second Hook**: Transforms your opening sentence into an immediate visual contradiction or curiosity gap to stop viewers from scrolling away.
 - **Visual Metaphors**: Converts abstract boring concepts into comedic visual jokes (e.g., anxiety depicted as a shrinking hamster wheel, burnout as a 1% battery bar).
@@ -603,7 +603,7 @@ Traditional AI tools just spit out literal illustrations of text. Stickman Video
 
 ### Q6. Can I monetize these videos on YouTube and TikTok?
 
-Yes, absolutely. A major concern for faceless creators is YouTube's "Reused Content" or "Low-effort AI" demonetization policy. Because Stickman Video Director writes custom storytelling arcs, unique narrative pacing, and original visual staging, your output is completely original. Hundreds of channels successfully monetize stickman narrative videos under the YouTube Partner Program (YPP).
+Yes, absolutely. A major concern for faceless creators is YouTube's "Reused Content" or "Low-effort AI" demonetization policy. Because SadSha Stickman Video writes custom storytelling arcs, unique narrative pacing, and original visual staging, your output is completely original. Hundreds of channels successfully monetize stickman narrative videos under the YouTube Partner Program (YPP).
 
 ### Q7. Do I need programming skills or an expensive GPU?
 

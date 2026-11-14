@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [**🇨🇳 简中**](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 🎬 Stickman Video Director
+# 🎬 SadSha Stickman Video
 
 **将任何脚本变成适合不露脸 YouTube 频道的多画风爆款火柴人动画视频。**
 
@@ -573,7 +573,7 @@ AI 助手会根据内容设计分镜，生成画面与旁白，配好字幕和�
 
 ### Q1. 这真的是 100% 免费的吗？有没有隐藏收费？
 
-是的。Stickman Video Director 采用 MIT 开源协议，100% 完全免费且开源，你可以自由用于个人创作或商业变现。不同于传统每月收取 $30–$60 昂贵月费的商业软件，本项目没有任何订阅费。你只需根据自己选择调用的第三方大模型服务（如 Google Gemini、Claude 或 ElevenLabs）按需支付官方 API 费用。
+是的。SadSha Stickman Video 采用 MIT 开源协议，100% 完全免费且开源，你可以自由用于个人创作或商业变现。不同于传统每月收取 $30–$60 昂贵月费的商业软件，本项目没有任何订阅费。你只需根据自己选择调用的第三方大模型服务（如 Google Gemini、Claude 或 ElevenLabs）按需支付官方 API 费用。
 
 <!-- readme:platforms -->
 
@@ -595,7 +595,7 @@ AI 助手会根据内容设计分镜，生成画面与旁白，配好字幕和�
 
 ### Q5. 它是如何确保视频具有高完播率、有梗且不枯燥的？
 
-普通 AI 工具只会机械地把文字直译成画面，导致视频像催眠 PPT。Stickman Video Director 植入了专业的**视觉叙事心理学**：
+普通 AI 工具只会机械地把文字直译成画面，导致视频像催眠 PPT。SadSha Stickman Video 植入了专业的**视觉叙事心理学**：
 
 - **黄金 3 秒钩子**：将开篇第一句话重构为视觉反差或悬念冲突，瞬间抓住注意力防止观众划走；
 - **爆款视觉隐喻**：把枯燥抽象的概念转化为具象的搞笑视觉梗（例如把“精神内耗”具象化为一个疯狂自转的仓鼠轮，把“被掏空”具象化为头顶仅剩 1% 的低电量进度条）；
